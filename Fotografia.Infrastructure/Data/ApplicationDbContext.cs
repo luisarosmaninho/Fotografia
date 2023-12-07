@@ -28,7 +28,7 @@ namespace Fotografia.Infrastructure.Data
                     Name = "Portrait",
                     Description = "Does...",
                     Price = 30,
-                    ImageUrl = "",
+                    ImageUrl = "https://placehold.co/600x400",
                 },
                 new Servicos
                 {
@@ -36,7 +36,7 @@ namespace Fotografia.Infrastructure.Data
                     Name = "Wedding",
                     Description = "Does...",
                     Price = 50,
-                    ImageUrl = "",
+                    ImageUrl = "https://placehold.co/600x401",
                 },
                 new Servicos
                 {
@@ -44,7 +44,7 @@ namespace Fotografia.Infrastructure.Data
                     Name = "Animals",
                     Description = "Does...",
                     Price = 10,
-                    ImageUrl = "",
+                    ImageUrl = "https://placehold.co/600x402",
                 }
 
                 ) ;
